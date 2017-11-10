@@ -1,4 +1,3 @@
-###  Require: python3
 
 # csv2xlsx
 
@@ -6,7 +5,7 @@
 
 <br />
 
-## How to Run
+## How to Run(Require: python3)
 ```shell
 python3 csv2xlsx.py
 ```
